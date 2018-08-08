@@ -3,3 +3,4 @@
 *.raw filter=lfs diff=lfs merge=lfs
 *.tcp filter=lfs diff=lfs merge=lfs -text
 *.sqlite3.* filter=lfs diff=lfs merge=lfs
+*.json filter=lfs diff=lfs merge=lfs
