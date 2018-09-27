@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="(unknown)" audio_filename="ABC_naphing" version="21" version_date="180920">
+<Speakers>
+<Speaker id="spk1" name="naphing" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="speaker2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="speaker3" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="speaker4" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="speaker5" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="speaker6" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="xx"/>
+</Topics>
+<Episode>
+<Section type="report" topic="to1" startTime="0" endTime="1588.166">
+<Turn speaker="spk1" startTime="0.000000" endTime="1588.166">
+<Sync time="0.000000"/>
+A
+<Sync time="2.154"/>
+B
+<Sync time="3.355"/>
+C
+<Sync time="4.651"/>
+D
+<Sync time="6.061"/>
+E
+<Sync time="7.262"/>
+F
+<Sync time="8.615"/>
+G
+<Sync time="9.701"/>
+H
+<Sync time="10.693"/>
+I
+<Sync time="11.912"/>
+J
+<Sync time="13.189"/>
+K
+<Sync time="14.409"/>
+L
+<Sync time="15.572"/>
+M
+<Sync time="16.773"/>
+N
+<Sync time="18.088"/>
+O
+<Sync time="19.365"/>
+P
+<Sync time="20.585"/>
+Q
+<Sync time="21.748"/>
+R
+<Sync time="23.006"/>
+S
+<Sync time="24.131"/>
+T
+<Sync time="25.446"/>
+U
+<Sync time="26.552"/>
+V
+<Sync time="27.696"/>
+W
+<Sync time="29.106"/>
+X
+<Sync time="30.021"/>
+Y
+<Sync time="31.241"/>
+Z
+<Sync time="32.442"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

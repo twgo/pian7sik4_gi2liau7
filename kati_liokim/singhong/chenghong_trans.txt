@@ -1,0 +1,39 @@
+chenghong_002.wav 你 這陣 佇 佗？ //li2 tsit4-tsun7 ti7 toh4?
+chenghong_003.wav 我 已經 到 台北 矣。 //gua2 i2-king1 kau3 tai5-pak4 ah4.
+chenghong_004.wav 差不多 七點 十五 會 到 你 遐。 //tsha1-put4-to1 tshit4-tiam2 tsap8-goo7 e7 kau3 li2 hia1.
+chenghong_005.wav 你 到 的 時陣 蹛 對面 的 seven 遐 等 我。 //li2 kau3 e7 si5-tsun7 tua3 tui3-bin7 e5 seven hia1 tan2 gua2.
+chenghong_006.wav 你 的 車號 是 啥？ //li2 e5 tshia1-ho7 si7 siannh4?
+chenghong_007.wav 車號 是 AGE 5678，烏色 的 WISH //tshia1-ho7 si7 (A G E) ngoo2 liok8 tshit4 pat4, oo1-sik4 e5 (WISH)
+chenghong_008.wav 好 //ho2  
+chenghong_009.wav 我 欲 揣 阿原仔 //gua2 beh4 tshue7 a-guan5-a2.
+chenghong_010.wav 你 有 伊 的 手機仔 無 //li2 u7 i1 e5 tshiu2-ki1-a2 bo5
+chenghong_012.wav 普通 我 攏 用 line 佮 伊 聯絡。 //pho2-thong1 gua2 long2 iong7 (line) kap4 i1 lian5-lok8
+chenghong_013.wav 伊 的 手機仔 愛 揣 一下 //i1 e5 tshiu2-ki1-a2 ai3 tshue7 tsit8-e7.
+chenghong_015.wav 揣著 矣 0990 775 346. //tshue7-tioh4 ah4 khong3 kiu2 kiu2 khong3 tshit4 tshit4 ngoo2 sam1 su3 liok8. 
+chenghong_016.wav 你 敲 看覓。 //li2 kha3 khuann3-mai7
+chenghong_017.wav 你 當時 欲來 //li2 tang1-si5 beh4 lai5
+chenghong_018.wav 閣 過 兩工仔 //koh4 kue3 nng7-kang1-a2
+chenghong_019.wav 莫 啦！較 早 咧 啦。 //mai3 lah4! khah4 tsa2 leh4 lah4.
+chenghong_020.wav 明仔載 中晝 進前，好 無？ //bin5-a2-tsai3 tiong1-tau3 tsin3-tsing5, ho2 bo5?
+chenghong_021.wav 攢 袂赴 啦。 //tshuan5 bue7 hu3 lah4.
+chenghong_022.wav 上緊 明仔載 暗頭仔。 //siong7-kin2 bin5-a2-tsai3 am3-thau5-a2.
+chenghong_023.wav 好 啦！確定 愛 到 喔。 //ho2 lah4! khak4-ting7 ai3 kau3 ooh4.
+chenghong_025.wav 我 這馬 佇 捷運 頂頭。 //gua2 tsit4-ma2 ti7 tsiat8-un7 ting2-thau5.
+chenghong_027.wav 小等 下，你 佇 西門站 3號 出口 遐 等 我。 //sio2-tan2 e7, li2 ti7 se1-mng5-tsam7 sann1-ho7 tshut4-khau2 hia1 tan2 gua2.
+chenghong_028.wav 你 當時 會 到？ //li2 tang1-si5 e7 kau3?
+chenghong_029.wav 三點半 左右。 //sann1-tiam2-puann3 tso2-iu7. 
+chenghong_030.wav 好。 //ho2.
+chenghong_031.wav 頭前 有 一台 車，車號 AXL 2923.  共 閘 落來。 //thau5-tsing5 u7 tsit8-tai5 tshia1, tshia1-ho7 (A X L) li7-kiu2-li7-sam1. ka7 tsah8 loh8-lai5.
+chenghong_032.wav 啥物 色 的？ //siann2-mih4 sik4 e5?
+chenghong_033.wav 烏too3紅 的。 //oo1-too3-ang5 e5.
+chenghong_034.wav 我 這馬 坐 高鐵 欲 去 台南。 //gua2 tsit4-ma2 tse7 ko1-thih4 beh4 khi3 tai5-lam5.
+chenghong_035.wav 大概 五點外 會到。 //tai7-khai3 goo7-tiam2 gua7 e7 kau3.
+chenghong_038.wav 按呢，咱 約 六點 佇 台南 火車頭 見面。 //an2-ne1, lan2 iok4 lak8-tiam2 ti7 tai5-lam5 hue2-tshia1-thau5 kinn3-bin7. 
+chenghong_039.wav 我 欲 去 菜市仔 買菜。 //gua2 beh4 khi3 tshai3-tshi7-a2 be2-tshai3.
+chenghong_041.wav 你 有 欲 買 啥物 否？ //li2 u7 beh4 be2 siann2-mih4 bo5?
+chenghong_043.wav 共 我 買 一把 蕹菜、一條 苦瓜、一粒 西瓜、二塊 豆腐 佮 半隻 雞。 //ka7 gua2 bue2 tsit8-pe2 ing3-tshai3, tsit8-tiau5 khoo2-kue1, tsit8-liap8 si1-kue1, nng7-te3 tau7-hu7 kah4 puann3-tsiah4 ke1.
+chenghong_044.wav 好, 錢 轉來 才 佮 你 算。 //ho2, tsinn5 tng2-lai5 tsiah4 kah4 li2 sng3.
+chenghong_050.wav 猶閣 愛 買 一份 火鍋料。 //iah4-koh4 ai3 be2 tsit8-hun7 he2-ko1-liau7.  
+chenghong_051.wav 我 今仔日 去 電信局 調 阮兜 電話 的 通聯紀錄。 //gua2 kin1-a2-lit8 khi3 tian7-sin3-kiok4 tiau3 gun2-tau1 tian7-ue7 e5 thong1-lian5-ki3-lok8.
+chenghong_052.wav 是 有 啥物 代誌。 //si7 u7 siann2-mih4 tai7-tsi3.
+chenghong_053.wav 欲 確定 六月 十九 一通 電話 是毋是 詐騙電話。 //beh4 khak4-ting7 lak8-gueh8 tsap8-kau2 tsit8-thong1 tian7-ue7 si7-m7-si7 tsa3-phian3-tian7-ue7.

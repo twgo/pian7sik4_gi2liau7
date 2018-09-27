@@ -1,0 +1,130 @@
+漢羅
+通用
+台羅
+
+A：你 這陣 di 佗？
+// li zit-zun dih derh?
+// li tsit-tsun tih toh?
+B：我 已經 到 台北 ah.  
+// ghua i-ging gau dai-bak ah.
+// gua i-king kau tai-pak ah.
+   差不多 七點十五 會到 你遐。
+// ca-but-der cit-diam-zap-gho e gau li hia.
+// tsha-put-to tshit-tiam-tsap-goo e kau li hia.
+A: 你 到的 時陣 dua 對面的 seven 遐 等我。
+// li gau e si-zun dua dui-bhin e seven hia dan ghua.
+// li kau e si-tsun tua tui-bin e seven hia tan gua.
+   你的 車號 是啥？
+// li-e cia-her si siann?
+// li-e tshia-ho si siann?
+B: 車號 是 AGE 5678，烏色的 WISH。
+// cia-her si AGE 5678, o-sik-e WISH.
+// tshia-ho si AGE 5678, oo-sik-e WISH.
+A：好。
+// her.
+// ho.  
+
+
+A：我 欲 揣 阿原仔.  
+// ghua bheh ce a-ghuan-a.
+// gua beh tshe a-guan-a.
+   你 有 伊的 手機仔 否？
+// li u i-e ciu-gi-a, bher?
+// li u i-e tshiu-ki-a, bo?
+B：普通 我 攏用 line 共伊 聯絡。
+// per-tong ghua long iong line gah i lien-lok.
+// pho-thong gua long iong line kah i lian-lok.
+   伊的 手機仔 愛 揣 一下。
+// i-e ciu-gi-a ai ce --zit-e.
+// i-e tshiu-ki-a ai tshe tsit-e.
+
+B：揣著啊。0990 775 346.
+// ce-dierh a! kong-giu-giu-kong cit-cit-ngo sam-suh-liok.
+// tshe-tioh a! khong kiu kiu khong tshit tshit ngoo sam suh liok. 
+   你 kah 看麥。
+// li kah kuann mai.
+// li khah khuann mai.
+
+A：你 當時 欲來？
+// li dang-si bheh lai?
+// li tang-si beh lai?
+B：閣 過 二工 a.
+// gerh gue --nng-gang a.
+// koh kue nng-kang a.
+A: 麥啦！較早咧啦。
+// mai lah! kah za le lah.
+// mai lah! khah tsa le lah.
+   明仔載 中晝 進前，好否？
+// bhin-na-zai diong-dau zin-zing, her-bher?
+// bin-na-tsai tiong-tau tsin-tsing, ho-bo?
+B：攢（cuan） 袂赴啦。
+// cuan bhue hu lah.
+// tshuan bue hu lah.
+   上緊 明仔載 暗頭仔。
+// siong-gin bhin-na-zai am-tau-a.
+// siong-kin bin-na-tsai am-thau-a.
+A：好啦！確定 愛到 o。
+// her lah! kak-ding ai gau o.
+// ho lah! khak-ting ai kau o.
+
+A：我 這馬 佇 捷運 頂頭。
+// ghua zit-ma di ziet-un ding-tau.
+// gua tsit-ma ti tsiat-un ting-thau.
+   稍等e，你 佇 西門站 3號出口 遐 等我。
+// sier-dan-e li dih se-mng-zam sann-her cut-kau hia dan ghua.
+// sio-tan-e li tih se-mng-tsam sann-ho tshut-khau hia tan gua.
+B：你 當時 會到?
+// li dang-si e gau?
+// li tang-si e kau?
+A：三點半 左右。
+// sann-diam-buann zer-iu. 
+// sann-tiam-puann tso-iu. 
+B：好。
+// her.
+// ho.
+
+A：頭前 有一台車，車號 AXL2923.  共 za落來。
+// tau-zing u zit-dai cia, cia-her AXL li-giu-li-sam.  gah za lerh-lai.
+// thau-tsing u tsit-tai tshia, tsia-ho AXL li-kiu-li-sam. kah tsa loh-lai.
+B：啥物色 的？
+// siann-mih sik e?
+// siann-mih sik e?
+A：烏do紅的。
+// o-do-ang e.
+// oo-too-ang e.
+
+A：我 這馬 坐 高鐵 欲去 台南。
+// ghua zit-ma ze ger-tih bheh ki dai-lam.
+// gua tsit-ma tse ko-thih beh khi tai-lam.
+   大概 五點外 會到。
+// dai-kai gho-diam ghua e gau.
+// tai-khai goo-tiam gua e kau.
+B：按呢，咱 約 六點 佇 台南 火車頭 見面。
+// an-ne, lan iok lak-diam dih dai-lam he-cia-tau ginn-bhin.
+// an-ne, lan iok lak-tiam tih tai-lam he-tsia-thau kinn-bin. 
+
+A：我 欲去 菜市仔 買菜。
+// ghua bheh ki cai-ci-a bhue-cai.
+// gua beh khi tshai-tshi-a bue-tshai.
+   你 有 欲買 啥物 否？
+// li u bheh bhue siann-mih bher?
+// li u beh bue siann-mih bo?
+B：共 我 買 一把 蕹菜、一條 苦瓜、一粒 西瓜、二塊 豆腐 gah 半隻 雞。
+// gah ghua bhue zit-be ing-cai, zit-diau ko-gue, zit-liap si-gue, nng-de dau-hu gah buann-zia gue.
+// kah gua bue tsit-pe ing-tshai, tsit-tiau khoo-kue, tsit-liap si-kue, nng-te tau-hu kah puann-tsia kue.
+A：好, 錢 轉來 za 共 你 算。
+// her, zinn dng-lai zah gah li sng.
+// ho, tsinn tng-lai tsah kah li sng.
+B：猶閣 愛 買 一份 火鍋料。
+// iah-gerh ai bhue zit-hun he-ger-liau.
+// iah-koh ai bue tsit-hun he-ko-liau.  
+
+A：我 今仔日 去 電信局 調 阮兜 電話的 通聯紀錄。
+// ghua gin-a-lit ki dien-sin-giok diau ghun-dau dien-ue e tong-lien-gi-lok.
+// gua kin-a-lit khi tian-sin-kiok tiau gun-tau tian-ue e thong-lian-ki-lok.
+B：是有 啥物 代誌。
+// si u siann-mih dai-zi.
+// si u siann-mih tai-tsi.
+A：欲 確定 六月十九 一通 電話 是毋是 詐騙電話。
+// bheh kak-ding lak-gheh-ziap-gau zit-tong dien-ue si-m-si za-pien-dien-ue.
+// beh khak-ting lak-geh-tsaip-kau tsit-thong tian-ue si-m-si tsa-phian-tian-ue.
