@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="mtko" audio_filename="script2" version="1" version_date="181005">
+<Speakers>
+<Speaker id="spk1" name="Ko Ming-Tat" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="23.1967291667">
+<Turn startTime="0" endTime="23.1967291667" speaker="spk1">
+<Sync time="0"/>
+我 要 找 阿原。
+<Sync time="2.638"/>
+你 有沒有 他的 手機。
+<Sync time="5.967"/>
+普通 我 都是 用 line 跟 他 聯絡
+<Sync time="10.238"/>
+他的 手機 要 找一下
+<Sync time="13.336"/>
+找到 了！
+<Sync time="15.304"/>
+0990775 346
+<Sync time="20.873"/>
+你 打 看看
+<Sync time="23.029"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

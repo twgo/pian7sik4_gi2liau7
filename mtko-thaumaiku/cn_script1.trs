@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="mtko" audio_filename="script1" version="1" version_date="181005">
+<Speakers>
+<Speaker id="spk1" name="Ko Ming-Tat " check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="27.9786666667">
+<Turn startTime="0" endTime="27.9786666667" speaker="spk1">
+<Sync time="0"/>
+你 現在 到 哪裡 了
+<Sync time="2.752"/>
+我 已經 到 台北 了
+<Sync time="6.035"/>
+差不多 七點十五 會 到 你 那邊
+<Sync time="10.000"/>
+你 到 的 時候 在 對面的 seven 等 我
+<Sync time="14.520"/>
+你的 車號 是 什麼
+<Sync time="18.078"/>
+車號 是 AGE 5678 黑色的 WISH
+<Sync time="25.97"/>
+好
+</Turn>
+</Section>
+</Episode>
+</Trans>

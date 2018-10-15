@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="mtko" audio_filename="script3" version="1" version_date="181005">
+<Speakers>
+<Speaker id="spk1" name="Ko Ming-Tat" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="22.5349583333">
+<Turn startTime="0" endTime="22.5349583333" speaker="spk1">
+<Sync time="0"/>
+你 什麼 時候 要 來
+<Sync time="2.949"/>
+再 過 兩三天 吧
+<Sync time="5.918"/>
+不要 啦，早 一點 啦
+<Sync time="8.99"/>
+明天 中午 前，好嗎？
+<Sync time="11.939"/>
+準備 不及 了。
+<Sync time="14.949"/>
+最快 明天 下午 四、五點
+<Sync time="18.65"/>
+好啦！ 一定 要 來 呦
+</Turn>
+</Section>
+</Episode>
+</Trans>
